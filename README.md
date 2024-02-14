@@ -1,7 +1,11 @@
 ### Hello world
 #### I'm a Web Developer from the mountains with an international studies past
 
-- ⚙️ I’m currently working on PHP (OOP) / Laravel / Liquid / Javascript / SASS / GSAP / Linux
-- 🔭 CMS that I’m currently working on -> WordPress / Silverstripe
-- 🌱 Next goal to learn React / Next.js / Vue.js / Nuxt.js
+- ⚙️ Languages and tools
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  <img alt='Shopify - Liquid' src='https://img.shields.io/badge/Liquid_(Shopify)-100000?style=for-the-badge&logo=Shopify - Liquid&logoColor=25D71C&labelColor=24CD40&color=2DE753'/>  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  	![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+
+- 🔭 CMS I’m currently working on -> WordPress / Silverstripe
+- 🌱 Next goal to learn React / Next.js / Vue.js / Nuxt.js / Headless CMS (Strapi-Contentful-Storyblok)
 - ⚡ Fun fact: The reason for my GitHub username? Because of my profile photo 🌭
