@@ -11,7 +11,7 @@ class Me extends Person
     {
         return [
             'workplace' => [
-                'company' => ‘YAK Agency’,
+                'company' => 'YAK Agency',
                 'position' => ‘Web Developer’         
             ]
         ];
@@ -21,12 +21,12 @@ class Me extends Person
     {
         return [
             Php::class,
-	          Laravel::class,
+            Laravel::class,
             Javascript::class,
             MVCArchitecture::class,
-            SASS::class,
+            Sass::class,
             TailwindCss::class,
-            GSAP::class,
+            Gsap::class,
             Liquid::class,
             MySQL::class,
             Docker::class,
@@ -43,7 +43,7 @@ class Me extends Person
 
     public function getFutureGoal(): string
     {
-        return ‘Learning more & more stuff and perhaps try to spread the knowledge’;
+        return 'Learning more & more stuff and perhaps try to spread the knowledge';
     }
 }
 ```
