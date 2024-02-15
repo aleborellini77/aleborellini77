@@ -48,5 +48,5 @@ class Me extends Person
 }
 ```
 
-- 🌱 Next goal to learn React / Next.js / Vue.js / Nuxt.js / Headless CMS (Strapi-Contentful-Storyblok)
+- 🌱 Wanting to learn React / Next.js / Vue.js / Nuxt.js / Three.js / Headless CMS (Strapi-Contentful-Storyblok)
 - ⚡ Fun fact: The reason for my GitHub username? Because of my profile photo 🌭
