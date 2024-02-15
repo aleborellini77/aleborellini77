@@ -26,7 +26,6 @@ class Me extends Person
             MVCArchitecture::class,
             Sass::class,
             TailwindCss::class,
-            Gsap::class,
             Liquid::class,
             MySQL::class,
             Docker::class,
@@ -37,7 +36,8 @@ class Me extends Person
     public function getDailyEntertainmentWith(): array
     {
         return [
-             Linux::class,
+             Gsap::class,
+             Linux::class
         ];
     }
 
