@@ -1,5 +1,3 @@
-### Hello, World!
-
 ```php
 <?php
 
@@ -11,7 +9,7 @@ class Me extends Person
     {
         return [
             'workplace' => [
-                'company' => 'YAK Agency',
+                'company' => 'SAY S.p.a.',
                 'position' => 'Web Developer'         
             ]
         ];
@@ -20,24 +18,16 @@ class Me extends Person
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
+            PHP::class,
             Laravel::class,
-            Javascript::class,
+            JavaScript::class,
             MVCArchitecture::class,
             Sass::class,
             TailwindCss::class,
-            Liquid::class,
+            Shopify::class,
             MySQL::class,
             Docker::class,
             Git::class
-        ];
-    }
-
-    public function getDailyEntertainmentWith(): array
-    {
-        return [
-             Gsap::class,
-             Linux::class
         ];
     }
 
@@ -48,5 +38,5 @@ class Me extends Person
 }
 ```
 
-- 🌱 Wanting to learn React / Next.js / Vue.js / Nuxt.js / Three.js / Headless CMS (Strapi-Contentful-Storyblok)
+- 🌱 Learning Vue.js / Nuxt.js / Three.js / Headless CMS (Strapi)
 - ⚡ Fun fact: The reason for my GitHub username? Because of my profile photo 🌭
